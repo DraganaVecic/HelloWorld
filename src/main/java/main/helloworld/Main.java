@@ -101,7 +101,7 @@ public class Main {
         
                
         
-       /* Scanner input = new Scanner(System.in); 
+        Scanner input = new Scanner(System.in); 
 	System.out.println("Unesite redni broj dana u nedelji (1 do 7):");   
 	int day = input.nextInt(); 
         
