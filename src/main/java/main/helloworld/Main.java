@@ -98,10 +98,43 @@ public class Main {
 
 
 
+        
+               
+        
+       /* Scanner input = new Scanner(System.in); 
+	System.out.println("Unesite redni broj dana u nedelji (1 do 7):");   
+	int day = input.nextInt(); 
+        
+        if(day == 1) {
+                System.out.println("Ponedeljak");
 
+        } else if(day == 2) {
+            System.out.println("Utorak");
+
+        } else if(day == 3) {
+            System.out.println("Sreda");
+
+        } else if(day == 4) {
+            System.out.println("Cetvrtak");
+
+        } else if(day == 5) {
+            System.out.println("Petak");
+
+        } else if(day == 6) {
+            System.out.println("Subota");
+
+        } else if(day == 7) {
+            System.out.println("Nedelja");
+
+        } else {
+            System.out.println("Morate uneti broj izmedju 1-7.");
+        }
+
+    }
+}
 
 
          
        }
          
-}
+
